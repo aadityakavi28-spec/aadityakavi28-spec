@@ -7,17 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=Building%20Intelligent%20Solutions;Full+Stack+Development;AI+%2B+Web+Integration;Open+Source+Contributor&duration=4000&pause=1000" />
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-kavi-195498335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:aadityakavi28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://github.com/aadityakavi28-spec" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -152,17 +149,14 @@
 
 I'm always interested in collaborating on exciting projects, discussing innovative ideas, or just exchanging knowledge! Feel free to reach out.
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-kavi-195498335/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:aadityakavi28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+<a href="https://github.com/aadityakavi28-spec" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -171,7 +165,7 @@ I'm always interested in collaborating on exciting projects, discussing innovati
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/aadityakavi28-spec/aadityakavi28-spec/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aadityakavi28-spec/aadityakavi28-spec/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
