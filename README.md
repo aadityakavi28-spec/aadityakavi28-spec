@@ -165,7 +165,7 @@ I'm always interested in collaborating on exciting projects, discussing innovati
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/aadityakavi28-spec/aadityakavi28-spec/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aadityakavi28-spec/aadityakavi28-spec/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
