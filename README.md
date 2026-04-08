@@ -91,8 +91,8 @@
 
 <div align="center">
 
-- 🌟 **100+ Projects** in development  
-- 💡 **2+ Years** of Full Stack Development  
+- 🌟 **Projects** in development  
+- 💡 **Full Stack Development  
 - 📚 **Open Source Contributor** - Active in community  
 - 🚀 **AI & ML Enthusiast** - Building intelligent solutions  
 - 💻 **Clean Code Advocate** - Best practices follower  
@@ -103,14 +103,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🌱 Smart Agriculture System
-**AI-Powered Crop Monitoring & IoT Dashboard**
-- 🤖 ML-based crop disease detection  
-- 📊 Real-time analytics dashboard  
-- 🌍 IoT sensor integration  
-- 📱 Mobile-responsive web application  
-- **Tech:** Python, Flask, MongoDB, React, IoT
 
 ### 🔥 AI Resume Analyzer (In Progress)
 **Intelligent ATS Score & Resume Optimization Tool**
