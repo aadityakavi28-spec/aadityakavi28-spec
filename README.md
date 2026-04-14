@@ -4,6 +4,11 @@
 
 ### 🚀 Full Stack Developer | AI Builder | Problem Solver | Tech Innovator
 
+
+###  Portfolio Link = https://aditya-kavi-portfolio.vercel.app/
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=Building%20Intelligent%20Solutions;Full+Stack+Development;AI+%2B+Web+Integration;Open+Source+Contributor&duration=4000&pause=1000" />
 
 <p>
@@ -153,13 +158,6 @@ I'm always interested in collaborating on exciting projects, discussing innovati
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/aadityakavi28-spec/aadityakavi28-spec/main/dist/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
 
